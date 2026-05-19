@@ -125,7 +125,7 @@ Each notebook is self-contained and includes:
 To run these notebooks:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/data-analysis-portfolio
+git clone https://github.com/vatsal-99/data-analysis-portfolio
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
